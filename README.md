@@ -26,4 +26,3 @@
     </script>
 </body>
 </html>
-[index.html.txt](https://github.com/user-attachments/files/19332007/index.html.txt)
